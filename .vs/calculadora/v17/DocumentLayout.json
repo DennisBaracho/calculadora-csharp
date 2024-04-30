@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DENISE BARACHO\\Documents\\estudos\\linguagem c#\\projetos\\calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{035064D3-68A5-4DF2-BB22-B6FAE0EE9BFA}|calculadora\\calculadora.csproj|c:\\users\\denise baracho\\documents\\estudos\\linguagem c#\\projetos\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035064D3-68A5-4DF2-BB22-B6FAE0EE9BFA}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035064D3-68A5-4DF2-BB22-B6FAE0EE9BFA}|calculadora\\calculadora.csproj|C:\\Users\\DENISE BARACHO\\Documents\\estudos\\linguagem c#\\projetos\\calculadora\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{035064D3-68A5-4DF2-BB22-B6FAE0EE9BFA}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035064D3-68A5-4DF2-BB22-B6FAE0EE9BFA}|calculadora\\calculadora.csproj|c:\\users\\denise baracho\\documents\\estudos\\linguagem c#\\projetos\\calculadora\\calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035064D3-68A5-4DF2-BB22-B6FAE0EE9BFA}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035064D3-68A5-4DF2-BB22-B6FAE0EE9BFA}|calculadora\\calculadora.csproj|c:\\users\\denise baracho\\documents\\estudos\\linguagem c#\\projetos\\calculadora\\calculadora\\calculadora.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{035064D3-68A5-4DF2-BB22-B6FAE0EE9BFA}|calculadora\\calculadora.csproj|solutionrelative:calculadora\\calculadora.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calculadora",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\estudos\\linguagem c#\\projetos\\calculadora\\calculadora\\calculadora.csproj",
+              "RelativeDocumentMoniker": "calculadora\\calculadora.csproj",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\estudos\\linguagem c#\\projetos\\calculadora\\calculadora\\calculadora.csproj",
+              "RelativeToolTip": "calculadora\\calculadora.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-30T15:55:55.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\estudos\\linguagem c#\\projetos\\calculadora\\calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\estudos\\linguagem c#\\projetos\\calculadora\\calculadora\\Form1.cs",
+              "RelativeToolTip": "calculadora\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:57:34.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\estudos\\linguagem c#\\projetos\\calculadora\\calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\estudos\\linguagem c#\\projetos\\calculadora\\calculadora\\Form1.cs [Projeto]",
+              "RelativeToolTip": "calculadora\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:42:27.333Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DENISE BARACHO\\Documents\\estudos\\linguagem c#\\projetos\\calculadora\\calculadora\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "calculadora\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\DENISE BARACHO\\Documents\\estudos\\linguagem c#\\projetos\\calculadora\\calculadora\\Form1.Designer.cs",
+              "RelativeToolTip": "calculadora\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:50:05.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

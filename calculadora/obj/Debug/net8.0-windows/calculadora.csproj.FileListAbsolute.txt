@@ -1,0 +1,16 @@
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.exe
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.deps.json
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.runtimeconfig.json
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.dll
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.pdb
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.Form1.resources
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.csproj.GenerateResource.cache
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.AssemblyInfoInputs.cache
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.AssemblyInfo.cs
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.dll
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\obj\Debug\net8.0-windows\refint\calculadora.dll
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.pdb
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.genruntimeconfig.cache
+C:\Users\DENISE BARACHO\Documents\estudos\linguagem c#\projetos\calculadora\calculadora\obj\Debug\net8.0-windows\ref\calculadora.dll

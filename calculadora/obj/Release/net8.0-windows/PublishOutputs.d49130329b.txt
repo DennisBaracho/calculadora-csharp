@@ -1,0 +1,5 @@
+C:\Users\DENISE BARACHO\Documents\Calculadora\calculadora.exe
+C:\Users\DENISE BARACHO\Documents\Calculadora\calculadora.dll
+C:\Users\DENISE BARACHO\Documents\Calculadora\calculadora.deps.json
+C:\Users\DENISE BARACHO\Documents\Calculadora\calculadora.runtimeconfig.json
+C:\Users\DENISE BARACHO\Documents\Calculadora\calculadora.pdb
